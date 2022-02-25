@@ -6,7 +6,7 @@ namespace console_prog
     {
         public static void Main(string[] args)
         {
-            // IMPLICIT CONVERSION
+            // IMPLICIT CONVERSION (BİLİNÇSİZ DÖNÜŞÜM)
             Console.WriteLine("*****IMPLICIT CONVERSION*****");
 
             byte a = 5;
@@ -27,7 +27,7 @@ namespace console_prog
             object g = e + f + d;
             Console.WriteLine("g:" + g);
 
-            // EXPLICIT CONVERSION
+            // EXPLICIT CONVERSION (BİLİNÇLİ DÖNÜŞÜM)
             Console.WriteLine("*****EXPLICIT CONVERSION*****");
 
             int x = 4;
