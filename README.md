@@ -16,4 +16,4 @@ Hayal edin.
 
 Bu hayali gerçekleştirmek için buradayız.
 
-https://www.patika.dev/tr
+https://www.patika.dev
