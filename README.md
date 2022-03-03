@@ -15,3 +15,5 @@ ve bu eğitime herkesin ücretsiz, eşitçe ulaşabildiğini...
 Hayal edin.
 
 Bu hayali gerçekleştirmek için buradayız.
+
+https://www.patika.dev/tr
